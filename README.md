@@ -7,4 +7,4 @@
 
 or maybe this line -- do something here in your pr
 
-This is Ruchi's edit to the readme
+print(list(map(lambda x: x.upper(), "racecar")))
